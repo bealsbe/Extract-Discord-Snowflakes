@@ -4,6 +4,6 @@ Simple script for Discord Moderators to quickly extract User Ids from a join log
 Current Flow:
 - Copy contents of moderation bot logs into clipboard
 - Autohotkey runs a python script when a keyboard shortcut is pressed
-- The python script grabs all of the content from your and extracts the user Ids
+- The python script grabs all of the content from your clipboard and extracts the user Ids
 - The user ids are written to a file
 - The file is opened.
